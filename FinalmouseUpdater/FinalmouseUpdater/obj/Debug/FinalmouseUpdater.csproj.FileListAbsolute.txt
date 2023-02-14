@@ -1,0 +1,11 @@
+C:\Users\pluna\OneDrive\Desktop\Artic\FinalmouseUpdater\FinalmouseUpdater\bin\Debug\FinalmouseUpdater.exe.config
+C:\Users\pluna\OneDrive\Desktop\Artic\FinalmouseUpdater\FinalmouseUpdater\bin\Debug\FinalmouseUpdater.exe
+C:\Users\pluna\OneDrive\Desktop\Artic\FinalmouseUpdater\FinalmouseUpdater\bin\Debug\FinalmouseUpdater.pdb
+C:\Users\pluna\OneDrive\Desktop\Artic\FinalmouseUpdater\FinalmouseUpdater\obj\Debug\FinalmouseUpdater.csproj.AssemblyReference.cache
+C:\Users\pluna\OneDrive\Desktop\Artic\FinalmouseUpdater\FinalmouseUpdater\obj\Debug\FinalmouseUpdater.csproj.SuggestedBindingRedirects.cache
+C:\Users\pluna\OneDrive\Desktop\Artic\FinalmouseUpdater\FinalmouseUpdater\obj\Debug\FinalmouseUpdater.Form1.resources
+C:\Users\pluna\OneDrive\Desktop\Artic\FinalmouseUpdater\FinalmouseUpdater\obj\Debug\FinalmouseUpdater.Properties.Resources.resources
+C:\Users\pluna\OneDrive\Desktop\Artic\FinalmouseUpdater\FinalmouseUpdater\obj\Debug\FinalmouseUpdater.csproj.GenerateResource.cache
+C:\Users\pluna\OneDrive\Desktop\Artic\FinalmouseUpdater\FinalmouseUpdater\obj\Debug\FinalmouseUpdater.csproj.CoreCompileInputs.cache
+C:\Users\pluna\OneDrive\Desktop\Artic\FinalmouseUpdater\FinalmouseUpdater\obj\Debug\FinalmouseUpdater.exe
+C:\Users\pluna\OneDrive\Desktop\Artic\FinalmouseUpdater\FinalmouseUpdater\obj\Debug\FinalmouseUpdater.pdb
